@@ -1,1 +1,0 @@
-1. Application javaee-legacy-app-example has been successfully deployed!!
